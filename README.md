@@ -1,5 +1,4 @@
 
-  </style>
 
   <div class="a">
                <h1>Xin chào các bạn đã đến với website đầu tiên của tôi! </h1>
