@@ -40,7 +40,7 @@
      
   <div class="a">
       <p> Đây là tài khoản Github của tôi.</p>
-      <a href= " https://https://github.com/NguyenHuynhKimAnh " > Link Github </a>
+      <a href= "https://github.com/NguyenHuynhKimAnh " > Link Github </a>
   </div>
   
 </body>
