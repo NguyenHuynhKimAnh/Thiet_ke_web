@@ -1,10 +1,4 @@
-<html>
-<body>
-  <title>KimAnh</title>
-  <style>
-  div.a{
-  text-align: center;
-  }
+
   </style>
 
   <div class="a">
